@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609006853 source:c:\users\faruk\desktop\c, c++\weight_convertor_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
